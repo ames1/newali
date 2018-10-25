@@ -1,2 +1,2 @@
 # newali
-this repositoty is for test
+this repository is for test
